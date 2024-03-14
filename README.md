@@ -45,6 +45,6 @@ I'm a College Student & A DSA Developer, from Engineering College,Ajmer.</h2>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anikettP/anikettP/output/snake.svg" alt="Snake animation" />
 
 ###
