@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Aniket Patel
-I'm a College Student & A DSA Developer, from Engineering College,Ajmer.</h2>
+I'm Aniket Patel, currently delving into Data Structures and Algorithms (DSA) with C++. I have a solid background in C, Python, and Java. I enjoy coding, problem-solving, and continuously expanding my skill set.</h2>
 
 ###
 
