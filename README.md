@@ -1,3 +1,5 @@
+
+
 <!-- Particles Header -->
 
 <div align="center">
@@ -8,14 +10,14 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DRubik%2BGlitch%26size%3D35%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSystem.out.println(%2522Hello%2BWorld!%2522)%253B%3BCoding%2Bthe%2BFuture...%3BData%2BStructures%2B%2526%2BAlgorithms%3BLoading%2BSkills..........100%2525" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DRubik%2BGlitch%26size%3D35%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSystem.out.println(%2522Hello%2BWorld!%2522)%3BCoding%2Bthe%2BFuture...%3BData%2BStructures%2B%2526%2BAlgorithms%3BLoading%2BSkills..........100%2525" alt="Typing SVG" />
 </a>
 </div>
 
 <!-- "Terminal Style" Bio -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Terminal Gif">
 <pre align="left">
 <code class="language-javascript">
 const developer = {
@@ -51,29 +53,29 @@ mood: "☕ + 💻 = 🚀"
 
 <h3 align="center">⚡ Tech Stack</h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,py,java,c,cs,js,ts,react,html,css,vscode,git,linux,mysql%26perline%3D7%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,py,java,c,cs,js,ts,react,html,css,vscode,git,linux,mysql%26perline%3D7%26theme%3Ddark" alt="Skill Icons"/>
 </div>
 
 <!-- Socials with Glitch/Neon Style Badges -->
 
 <div align="center">
 <a href="https://www.youtube.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" alt="YouTube" />
 </a>
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://twitch.tv/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-9146FF%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-9146FF%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" alt="Twitch" />
 </a>
 <a href="https://discord.com/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord" />
 </a>
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 </div>
 
