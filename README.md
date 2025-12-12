@@ -1,47 +1,60 @@
-<!-- Header with Typing Effect -->
+<!-- Particles Header -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BAniket%2BPatel%3BC%252B%252B%2B%257C%2BPython%2B%257C%2BJava%2B%257C%2BDSA%3BAlways%2BLearning%2Band%2BBuilding" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DAniket%2520Patel%26fontSize%3D90%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DC%2B%2B%2520%257C%2520Python%2520%257C%2520Java%2520%257C%2520DSA%26descAlignY%3D51%26descAlign%3D62" width="100%" alt="Header" />
 </div>
 
-<!-- "Code Style" Bio -->
+<!-- Glitch Typing Effect -->
 
 <div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DRubik%2BGlitch%26size%3D35%26pause%3D1000%26color%3D00F5FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSystem.out.println(%2522Hello%2BWorld!%2522)%253B%3BCoding%2Bthe%2BFuture...%3BData%2BStructures%2B%2526%2BAlgorithms%3BLoading%2BSkills..........100%2525" alt="Typing SVG" />
+</a>
+</div>
+
+<!-- "Terminal Style" Bio -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <pre align="left">
-const aniket = {
-pronouns: "he/him",
-code: [C++, Python, Java, C, C#],
-web: [React, TS, JS, HTML, CSS],
-currentFocus: "Data Structures & Algorithms (DSA)",
-challenge: "Expanding Skill Set 🚀"
+<code class="language-javascript">
+const developer = {
+name: "Aniket Patel",
+role: "DSA Enthusiast & Developer",
+skills: {
+core: ["C++", "Python", "Java"],
+web: ["React", "TypeScript", "HTML/CSS"]
+},
+status: "Currently building efficient solutions...",
+mood: "☕ + 💻 = 🚀"
 };
+</code>
 </pre>
 </div>
 
-<!-- Stats Section -->
+<!-- Stats Section with Synthwave Theme -->
 
 <div align="center">
 <table style="border: none;">
 <tr>
 <td style="border: none;">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DanikettP%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Den%26hide_border%3Dtrue" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DanikettP%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Dsynthwave%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="stats graph" />
 </td>
 <td style="border: none;">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DanikettP%26locale%3Den%26layout%3Dcompact%26langs_count%3D6%26theme%3Ddracula%26hide_border%3Dtrue" height="180" alt="languages graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DanikettP%26locale%3Den%26layout%3Dcompact%26langs_count%3D6%26theme%3Dsynthwave%26hide_border%3Dtrue%26bg_color%3D0d1117" height="180" alt="languages graph" />
 </td>
 </tr>
 </table>
 </div>
 
-<!-- Dev Style Showcase (Tech Stack) -->
+<!-- Tech Stack -->
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">⚡ Tech Stack</h3>
 <div align="center">
-<!-- Using SkillIcons for a clean, unified look -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,py,java,c,cs,js,ts,react,html,css,vscode,git%26perline%3D6%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,py,java,c,cs,js,ts,react,html,css,vscode,git,linux,mysql%26perline%3D7%26theme%3Ddark" />
 </div>
 
-<!-- Socials -->
+<!-- Socials with Glitch/Neon Style Badges -->
 
 <div align="center">
 <a href="https://www.youtube.com/">
@@ -64,7 +77,7 @@ challenge: "Expanding Skill Set 🚀"
 </a>
 </div>
 
-<!-- Snake Animation -->
+<!-- Snake Animation Footer -->
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anikettP/anikettP/output/snake.svg" alt="Snake animation" width="100%" />
