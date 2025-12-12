@@ -1,50 +1,71 @@
-<h2 align="left">Hi 👋! My name is Aniket Patel
-I'm Aniket Patel, currently delving into Data Structures and Algorithms (DSA) with C++. I have a solid background in C, Python, and Java. I enjoy coding, problem-solving, and continuously expanding my skill set.</h2>
-
-###
+<!-- Header with Typing Effect -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikettP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikettP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D20C20E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BAniket%2BPatel%3BC%252B%252B%2B%257C%2BPython%2B%257C%2BJava%2B%257C%2BDSA%3BAlways%2BLearning%2Band%2BBuilding" alt="Typing SVG" />
 </div>
 
-###
+<!-- "Code Style" Bio -->
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+<pre align="left">
+const aniket = {
+pronouns: "he/him",
+code: [C++, Python, Java, C, C#],
+web: [React, TS, JS, HTML, CSS],
+currentFocus: "Data Structures & Algorithms (DSA)",
+challenge: "Expanding Skill Set 🚀"
+};
+</pre>
 </div>
 
-###
+<!-- Stats Section -->
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+<table style="border: none;">
+<tr>
+<td style="border: none;">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DanikettP%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Den%26hide_border%3Dtrue" height="180" alt="stats graph" />
+</td>
+<td style="border: none;">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DanikettP%26locale%3Den%26layout%3Dcompact%26langs_count%3D6%26theme%3Ddracula%26hide_border%3Dtrue" height="180" alt="languages graph" />
+</td>
+</tr>
+</table>
 </div>
 
-###
+<!-- Dev Style Showcase (Tech Stack) -->
 
-<br clear="both">
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<div align="center">
+<!-- Using SkillIcons for a clean, unified look -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,py,java,c,cs,js,ts,react,html,css,vscode,git%26perline%3D6%26theme%3Ddark" />
+</div>
 
-<img src="https://raw.githubusercontent.com/anikettP/anikettP/output/snake.svg" alt="Snake animation" />
+<!-- Socials -->
 
-###
+<div align="center">
+<a href="https://www.youtube.com/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://twitch.tv/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-9146FF%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" />
+</a>
+<a href="https://discord.com/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-5865F2%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+</div>
+
+<!-- Snake Animation -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/anikettP/anikettP/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
