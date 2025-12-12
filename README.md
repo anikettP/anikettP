@@ -1,5 +1,3 @@
-
-
 <!-- Particles Header -->
 
 <div align="center">
