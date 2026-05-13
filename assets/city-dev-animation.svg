@@ -1,8 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Data-driven isometric developer city (placeholder until Actions run)">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="55%" stop-color="#0b1224"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="hud" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .win { fill: #334155; animation: blink 4.2s ease-in-out infinite; }
+      .hudLine { fill: #e2e8f0; font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .hudSub { fill: #93c5fd; font: 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .beam { stroke: #22d3ee; stroke-width: 2; opacity: .35; stroke-dasharray: 6 10; animation: dash 3.2s linear infinite; }
+      .orbit { animation: orbit 11s linear infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes blink {
+        0%,100% { fill: #334155; opacity: .55; }
+        40% { fill: #facc15; opacity: .95; }
+        60% { fill: #22d3ee; opacity: .95; }
+      }
+      @keyframes dash { to { stroke-dashoffset: -120; } }
+      @keyframes orbit {
+        from { transform: rotate(0deg) translateX(0px); }
+        to { transform: rotate(360deg) translateX(0px); }
+      }
+      @keyframes float {
+        0%,100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+      .floater { animation: float 5.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#sky)"/>
+
+  <g class="floater">
+    <rect x="56" y="34" width="1088" height="92" rx="14" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.55" filter="url(#glow)"/>
+    <rect x="56" y="34" width="1088" height="26" rx="14" fill="url(#hud)"/>
+    <text x="74" y="58" class="hudLine">DATA-DRIVEN SKYLINE · push this repo, then run the workflow “Generate data-driven city SVG”</text>
+    <text x="74" y="82" class="hudSub">Your public repo count sets your tower height + floor bands · GitHub search (repos desc) picks the tallest “global” tower</text>
+    <text x="74" y="104" class="hudSub">README embeds SVG as an image: animations work, JavaScript does not · hover tooltips are limited in &lt;img&gt; embeds</text>
+  </g>
+
+  <g opacity="0.55">
+    <circle cx="90" cy="70" r="1.6" fill="#e2e8f0"><animate attributeName="opacity" values=".2;.9;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="52" r="1.4" fill="#e2e8f0"><animate attributeName="opacity" values=".25;.85;.25" dur="2.8s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="78" r="1.5" fill="#e2e8f0"><animate attributeName="opacity" values=".2;.95;.2" dur="3.9s" begin=".8s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="60" r="1.7" fill="#e2e8f0"><animate attributeName="opacity" values=".15;.9;.15" dur="3.1s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="74" r="1.4" fill="#e2e8f0"><animate attributeName="opacity" values=".2;.85;.2" dur="4.0s" begin="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path class="beam" d="M40 360 C220 330, 420 390, 600 350 S980 320, 1160 360" fill="none"/>
+  <rect x="0" y="360" width="1200" height="60" fill="#020617"/>
+
+  <!-- Example towers (workflow overwrites with live heights) -->
+  <g>
+    <polygon points="317,235 389,235 429,205 357,205" fill="#155e75" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="1"/>
+    <polygon points="389,235 429,205 429,360 389,360" fill="#0b1220" stroke="#334155" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="317" y="235" width="72" height="125" rx="3" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="1"/>
+    <line x1="323" y1="255" x2="383" y2="255" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1"/>
+    <line x1="323" y1="275" x2="383" y2="275" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1"/>
+    <line x1="323" y1="295" x2="383" y2="295" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1"/>
+    <rect class="win" x="328" y="242" width="10" height="8" rx="1" style="animation-delay:0.1s"/>
+    <rect class="win" x="346" y="242" width="10" height="8" rx="1" style="animation-delay:0.3s"/>
     <rect class="win" x="364" y="242" width="10" height="8" rx="1" style="animation-delay:0.5s"/>
     <text x="300" y="382" fill="#67e8f9" font="700 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">YOU · tower scales with your public repos</text>
   </g>
-  <rect x="344" y="226" width="160" height="6" class="neon" rx="3"/>
-  <text x="350" y="220" fill="#93c5fd" font-size="18" font-family="monospace">&lt;/&gt; ship code daily</text>
+
   <g>
     <polygon points="868,165 972,165 1036,125 932,125" fill="#312e81" stroke="#c084fc" stroke-opacity="0.45" stroke-width="1"/>
     <polygon points="972,165 1036,125 1036,360 972,360" fill="#0f172a" stroke="#334155" stroke-opacity="0.35" stroke-width="1"/>
@@ -16,17 +89,12 @@
     <rect class="win" x="932" y="176" width="9" height="8" rx="1" style="animation-delay:0.8s"/>
     <text x="820" y="382" fill="#e9d5ff" font="700 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">GLOBAL MAX · tallest from GitHub user search (repos)</text>
   </g>
-  <rect x="920" y="86" width="140" height="120" class="scan" />
-  <path d="M80 280 C200 250, 320 300, 460 275 S760 250, 1120 280" class="code"/>
-  <g class="drone">
-    <rect x="30" y="64" width="34" height="10" rx="4" fill="#38bdf8"/>
-    <circle cx="28" cy="69" r="4" fill="#94a3b8"/>
-    <circle cx="68" cy="69" r="4" fill="#94a3b8"/>
-    <circle cx="47" cy="69" r="2" fill="#f8fafc"/>
+
   <g class="orbit" transform="translate(600,118)">
     <circle r="10" fill="#22d3ee" opacity="0.85"/>
     <circle r="4" fill="#0f172a"/>
   </g>
+
   <rect x="0" y="150" width="1200" height="40" fill="url(#hud)" opacity="0.08">
     <animate attributeName="y" values="120;260;120" dur="6s" repeatCount="indefinite"/>
   </rect>
