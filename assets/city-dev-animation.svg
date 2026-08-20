@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="3D Cyber City Skyline - All Repositories & Commits">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="3D Cyber City Skyline - All Repositories &amp; Commits">
   <defs>
     <!-- Dark Cyber Sky -->
     <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
@@ -70,67 +70,43 @@
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1" stroke-opacity="0.4"/>
     </pattern>
 
-    <!-- High-Intensity Neon Glow Filters -->
-    <filter id="neonGlowGold" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="7" result="blur1"/>
-      <feGaussianBlur stdDeviation="2" result="blur2"/>
+    <!-- Compatibility Optimized Glow Filters -->
+    <filter id="neonGlowGold" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feOffset in="blur" dx="0" dy="0" result="offsetBlur"/>
       <feMerge>
-        <feMergeNode in="blur1"/>
-        <feMergeNode in="blur2"/>
+        <feMergeNode in="offsetBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <filter id="neonGlowCyan" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="blur1"/>
+    <filter id="neonGlowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
-        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <filter id="neonGlowPurple" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur1"/>
+    <filter id="neonGlowPurple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
-        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
     <style>
-      /* Hover Elevation and Depth Mechanics */
-      .building-group {
-        transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
-        cursor: pointer;
-      }
-      .building-group:hover {
-        transform: translateY(-16px) scale(1.03);
-      }
+      /* Note: Hover interactions removed for compatibility with image embedding */
       
-      /* Hover Tooltip Activation */
-      .building-tooltip {
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity 0.3s ease, transform 0.3s ease;
-        transform: translateY(10px);
-      }
-      .building-group:hover .building-tooltip {
-        opacity: 1;
-        transform: translateY(0px);
-      }
-
-      /* Dynamic Roof Hilite on Hover */
-      .building-group:hover .tower-roof {
-        fill: #ffffff !important;
-        filter: drop-shadow(0 0 15px #38bdf8);
-      }
-      .building-group.gold:hover .tower-roof {
-        fill: #fef08a !important;
-        filter: drop-shadow(0 0 20px #facc15);
-      }
+      /* Explicit static roof colors for compatibility */
+      .building-group.gold .tower-roof { fill: #facc15; }
+      .building-group.cyan .tower-roof { fill: #0891b2; }
+      .building-group.purple .tower-roof { fill: #c084fc; }
+      .building-group.slate .tower-roof { fill: #475569; }
 
       /* Animated Floor Stories (Activity Lights) */
-      .floor-story {
+      .floor-story polygon {
         animation: storyPulse 3.5s ease-in-out infinite alternate;
       }
       @keyframes storyPulse {
@@ -176,14 +152,14 @@
     <circle cx="1120" cy="120" r="1.8" fill="#facc15"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- Interactive Glassmorphic Header HUD Card -->
+  <!-- Glassmorphic Header HUD Card -->
   <g class="hud-float">
     <rect x="60" y="20" width="1080" height="95" rx="16" fill="url(#glassGrad)" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.5" filter="url(#neonGlowCyan)"/>
     <rect x="60" y="20" width="1080" height="28" rx="16" fill="#38bdf8" fill-opacity="0.1"/>
     
     <text x="84" y="39" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, monospace" font-weight="700" font-size="12" letter-spacing="1.5">⚡ 3D DEVELOPER CITY · REPOSITORIES &amp; COMMIT STORIES METROPOLIS</text>
     <text x="84" y="68" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, monospace" font-size="13" font-weight="600">Every building = A public repository | Building stories = Commit count | Golden Crown Tower = YOUR REPO</text>
-    <text x="84" y="90" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11">Hover over any building in the city grid to inspect individual user repository metrics &amp; commit levels.</text>
+    <text x="84" y="90" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11">Hover tooltips disabled for image compatibility. See individual building labels below.</text>
   </g>
 
   <!-- City Ground Perspective Grid -->
@@ -204,20 +180,14 @@
 
   <!-- Small Background Building 1 -->
   <g class="building-group slate" transform="translate(100, 310)">
-    <polygon class="tower-roof" points="20,0 50,-12 70,0 40,12" fill="#475569" stroke="#94a3b8" stroke-width="1"/>
+    <polygon class="tower-roof" points="20,0 50,-12 70,0 40,12" stroke="#94a3b8" stroke-width="1"/>
     <polygon points="20,0 40,12 40,140 20,128" fill="url(#slateFront)"/>
     <polygon points="40,12 70,0 70,128 40,140" fill="url(#slateSide)"/>
-    <!-- Tooltip -->
-    <g class="building-tooltip" transform="translate(-20, -50)">
-      <rect width="140" height="40" rx="6" fill="#090d16" stroke="#94a3b8" stroke-width="1"/>
-      <text x="10" y="18" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="10" font-weight="700">user3/micro-service</text>
-      <text x="10" y="30" fill="#e2e8f0" font-family="ui-monospace, monospace" font-size="9">Commits: 180 (6 Stories)</text>
-    </g>
   </g>
 
   <!-- Medium Community Building 2 -->
   <g class="building-group cyan" transform="translate(200, 240)">
-    <polygon class="tower-roof" points="30,0 70,-18 100,0 60,18" fill="#0891b2" stroke="#22d3ee" stroke-width="1"/>
+    <polygon class="tower-roof" points="30,0 70,-18 100,0 60,18" stroke="#22d3ee" stroke-width="1"/>
     <polygon points="30,0 60,18 60,210 30,192" fill="url(#cyanFront)"/>
     <polygon points="60,18 100,0 100,192 60,210" fill="url(#cyanSide)"/>
     <line x1="60" y1="18" x2="60" y2="210" stroke="#22d3ee" stroke-width="1.5" opacity="0.6"/>
@@ -230,12 +200,6 @@
       <polygon points="32,145 58,160 58,164 32,149" fill="url(#storyLedCyan)"/>
       <polygon points="32,175 58,190 58,194 32,179" fill="url(#storyLedCyan)"/>
     </g>
-    <!-- Tooltip -->
-    <g class="building-tooltip" transform="translate(-10, -55)">
-      <rect width="160" height="42" rx="6" fill="#090d16" stroke="#22d3ee" stroke-width="1"/>
-      <text x="10" y="18" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="11" font-weight="700">dev-alex/react-app</text>
-      <text x="10" y="32" fill="#e2e8f0" font-family="ui-monospace, monospace" font-size="10">Commits: 620 (12 Stories)</text>
-    </g>
   </g>
 
   <!-- ================= TOWER 3: YOUR UNIQUE CROWN BUILDING (GOLD/HERO) ================= -->
@@ -246,7 +210,7 @@
     <circle cx="90" cy="-85" r="5" fill="#ffffff" filter="drop-shadow(0 0 12px #facc15)"/>
 
     <!-- 3D Roof -->
-    <polygon class="tower-roof" points="40,0 100,-25 140,0 80,25" fill="#facc15" stroke="#fef08a" stroke-width="2" style="transition: fill 0.3s;"/>
+    <polygon class="tower-roof" points="40,0 100,-25 140,0 80,25" stroke="#fef08a" stroke-width="2"/>
     
     <!-- Left Face -->
     <polygon points="40,0 80,25 80,330 40,305" fill="url(#goldFront)" stroke="#facc15" stroke-opacity="0.5" stroke-width="1.5"/>
@@ -283,19 +247,12 @@
     <ellipse cx="90" cy="328" rx="65" ry="15" fill="none" stroke="#facc15" stroke-width="3" filter="url(#neonGlowGold)" opacity="0.9"/>
 
     <!-- Building Label -->
-    <text x="-15" y="365" fill="#facc15" font-family="ui-monospace, SFMono-Regular, monospace" font-weight="700" font-size="13" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.9))">⭐ YOU (UNIQUE REPO) · 1,850 Commits</text>
-
-    <!-- Interactive Hover Tooltip Box -->
-    <g class="building-tooltip" transform="translate(-15, -100)">
-      <rect width="220" height="56" rx="8" fill="#090d16" stroke="#facc15" stroke-width="2" filter="drop-shadow(0 4px 15px rgba(250,204,21,0.4))"/>
-      <text x="12" y="22" fill="#facc15" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700">👑 YOUR UNIQUE REPOSITORY</text>
-      <text x="12" y="42" fill="#fef08a" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11">Total Commits: 1,850 | 18 Stories</text>
-    </g>
+    <text x="-15" y="365" fill="#facc15" font-family="ui-monospace, SFMono-Regular, monospace" font-weight="700" font-size="13" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.9))">⭐ YOU (UNIQUE REPO) · 1,850 Commits (18 Stories)</text>
   </g>
 
   <!-- Community Building 4 -->
   <g class="building-group cyan" transform="translate(640, 210)">
-    <polygon class="tower-roof" points="25,0 60,-15 85,0 50,15" fill="#0891b2" stroke="#22d3ee" stroke-width="1"/>
+    <polygon class="tower-roof" points="25,0 60,-15 85,0 50,15" stroke="#22d3ee" stroke-width="1"/>
     <polygon points="25,0 50,15 50,240 25,225" fill="url(#cyanFront)"/>
     <polygon points="50,15 85,0 85,225 50,240" fill="url(#cyanSide)"/>
     <g class="floor-story">
@@ -307,12 +264,6 @@
       <polygon points="27,170 48,182 48,186 27,174" fill="url(#storyLedCyan)"/>
       <polygon points="27,200 48,212 48,216 27,204" fill="url(#storyLedCyan)"/>
     </g>
-    <!-- Tooltip -->
-    <g class="building-tooltip" transform="translate(-10, -55)">
-      <rect width="170" height="42" rx="6" fill="#090d16" stroke="#22d3ee" stroke-width="1"/>
-      <text x="10" y="18" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="11" font-weight="700">sarah-dev/api-gateway</text>
-      <text x="10" y="32" fill="#e2e8f0" font-family="ui-monospace, monospace" font-size="10">Commits: 980 (14 Stories)</text>
-    </g>
   </g>
 
   <!-- ================= TOWER 5: GLOBAL TALLEST MEGATOWER (4,850 COMMITS) ================= -->
@@ -322,7 +273,7 @@
     <circle cx="110" cy="-70" r="4.5" fill="#f43f5e" filter="drop-shadow(0 0 10px #f43f5e)"/>
 
     <!-- 3D Roof -->
-    <polygon class="tower-roof" points="50,0 120,-30 170,0 100,30" fill="#c084fc" stroke="#e9d5ff" stroke-width="1.5" style="transition: fill 0.3s;"/>
+    <polygon class="tower-roof" points="50,0 120,-30 170,0 100,30" stroke="#e9d5ff" stroke-width="1.5"/>
     
     <!-- Left Face -->
     <polygon points="50,0 100,30 100,400 50,370" fill="url(#purpleFront)" stroke="#c084fc" stroke-opacity="0.3" stroke-width="1"/>
@@ -363,27 +314,14 @@
     <ellipse cx="110" cy="398" rx="75" ry="16" fill="none" stroke="#a855f7" stroke-width="2.5" filter="url(#neonGlowPurple)" opacity="0.85"/>
 
     <!-- Building Label -->
-    <text x="-10" y="435" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, monospace" font-weight="700" font-size="13" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.9))">🏆 TALLEST GLOBAL TOWER · 4,850 Commits</text>
-
-    <!-- Interactive Hover Tooltip Box -->
-    <g class="building-tooltip" transform="translate(0, -95)">
-      <rect width="220" height="54" rx="8" fill="#090d16" stroke="#c084fc" stroke-width="1.5" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.8))"/>
-      <text x="12" y="22" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="700">TALLEST REPOSITORY IN CITY</text>
-      <text x="12" y="40" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11">Total Commits: 4,850 | 22 Stories</text>
-    </g>
+    <text x="-10" y="435" fill="#c084fc" font-family="ui-monospace, SFMono-Regular, monospace" font-weight="700" font-size="13" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.9))">🏆 TALLEST GLOBAL TOWER · 4,850 Commits (22 Stories)</text>
   </g>
 
   <!-- Small Background Building 6 -->
   <g class="building-group slate" transform="translate(1040, 290)">
-    <polygon class="tower-roof" points="20,0 50,-12 70,0 40,12" fill="#475569" stroke="#94a3b8" stroke-width="1"/>
+    <polygon class="tower-roof" points="20,0 50,-12 70,0 40,12" stroke="#94a3b8" stroke-width="1"/>
     <polygon points="20,0 40,12 40,160 20,148" fill="url(#slateFront)"/>
     <polygon points="40,12 70,0 70,148 40,160" fill="url(#slateSide)"/>
-    <!-- Tooltip -->
-    <g class="building-tooltip" transform="translate(-40, -50)">
-      <rect width="140" height="40" rx="6" fill="#090d16" stroke="#94a3b8" stroke-width="1"/>
-      <text x="10" y="18" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="10" font-weight="700">john-doe/cli-tool</text>
-      <text x="10" y="30" fill="#e2e8f0" font-family="ui-monospace, monospace" font-size="9">Commits: 290 (8 Stories)</text>
-    </g>
   </g>
 
 </svg>
