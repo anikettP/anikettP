@@ -340,47 +340,87 @@ alt="600+ LeetCode problems solved"
 
 ---
 
-# `06 / GITHUB`
+06 / GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=anikettP&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
-height="170"
-alt="GitHub statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="170"
-alt="Top programming languages"
-/>
+ENGINEERING / OPEN SOURCE / ACTIVITY
 
 </div>
 
 <br>
 
-### `// SELECTED REPOSITORIES`
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anikettP&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="Aniket Patel GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Aniket Patel most used languages" />
+
+</div>
+
+<br>
+
+REPOSITORY / 01
 
 <div align="center">
 
 <a href="https://github.com/anikettP/Leetcode-_Problems">
 
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=anikettP&repo=Leetcode-_Problems&theme=tokyonight&hide_border=true"
-alt="LeetCode Problems repository"
-/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anikettP&repo=Leetcode-_Problems&theme=tokyonight&hide_border=true" alt="LeetCode Problems repository" />
 
 </a>
+
+</div>
+
+<details> <summary><b>↳ Explore repository</b></summary>
+
+<br>
+
+Leetcode-_Problems
+
+A collection of DSA problem-solving work covering algorithmic and data-structure practice.
+
+Focus
+
+Data Structures · Algorithms · Problem Solving · DSA
+
+<a href="https://github.com/anikettP/Leetcode-_Problems"> → Open repository </a>
+
+</details>
+
+REPOSITORY / 02
+
+<div align="center">
 
 <a href="https://github.com/anikettP/normalFormWithDatabase">
 
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=anikettP&repo=normalFormWithDatabase&theme=tokyonight&hide_border=true"
-alt="Normal Form with Database repository"
-/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anikettP&repo=normalFormWithDatabase&theme=tokyonight&hide_border=true" alt="Normal Form with Database repository" />
 
 </a>
+
+</div>
+
+<details> <summary><b>↳ Explore repository</b></summary>
+
+<br>
+
+normalFormWithDatabase
+
+A database-focused project around relational database normalization and design concepts.
+
+Focus
+
+Database Design · Normalization · SQL · Relational Databases
+
+<a href="https://github.com/anikettP/normalFormWithDatabase"> → Open repository </a>
+
+</details>
+
+CONTRIBUTION SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikettP&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -390,16 +430,11 @@ alt="Normal Form with Database repository"
 
 <a href="https://github.com/anikettP?tab=repositories">
 
-<img
-src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white"
-alt="View all repositories"
-/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
 
 </a>
 
 </div>
-
----
 
 # `07 / CONTRIBUTION ACTIVITY`
 
@@ -457,34 +492,56 @@ TCS NQT score: **72.61% · February 2026**
 
 ---
 
-# `09 / DEVELOPER TERMINAL`
+09 / ENGINEERING CONSOLE
 
 <div align="center">
 
-```text id="z7z3h0"
-┌─────────────────────────────────────────────────────────────┐
-│  aniket@developer:~$ ./current-state                       │
-│                                                             │
-│  ┌─ CURRENT ROLE                                            │
-│  │  Software Developer @ MYITMATE / MCD                     │
-│  │                                                          │
-│  ├─ PRIMARY STACK                                            │
-│  │  Java + Spring Boot + PostgreSQL                         │
-│  │                                                          │
-│  ├─ PROBLEM SOLVING                                         │
-│  │  600+ LeetCode                                           │
-│  │                                                          │
-│  ├─ PRODUCTION                                               │
-│  │  Enterprise + Government Applications                    │
-│  │                                                          │
-│  └─ STATUS                                                   │
-│     ● BUILDING                                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+╭──────────────────────────────────────────────────────────────╮
+│  ANIKET / ENGINEERING CONSOLE                    v2026.08   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PROFILE                                                     │
+│  ──────────────────────────────────────────────────────────  │
+│  ROLE        Full Stack Java Developer                       │
+│  DOMAIN      Enterprise · E-Governance                       │
+│  LOCATION    India                                           │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│  CORE SYSTEMS                                                │
+│                                                              │
+│  JAVA            ████████████████████                        │
+│  SPRING BOOT     ████████████████████                        │
+│  REST APIs       ████████████████████                        │
+│  POSTGRESQL      ██████████████████░░                        │
+│  REACT           ████████████████░░░░                        │
+│  DEVOPS          ███████████████░░░░░                        │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│  LIVE METRICS                                                │
+│                                                              │
+│  LEETCODE        600+                                        │
+│  GOVERNMENT      5000+ officials                             │
+│  PRODUCTION      1000+ users                                 │
+│  IMPACT          ~40% less manual processing                 │
+│                                                              │
+│  ──────────────────────────────────────────────────────────  │
+│  CURRENTLY                                                    │
+│                                                              │
+│  ● Software Developer @ MYITMATE / MCD                      │
+│  ● Health Trade License System                               │
+│  ● Production engineering                                   │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 </div>
 
+<br>
+
+<div align="center">
+
+BUILD　→　TEST　→　DEPLOY　→　MONITOR　→　IMPROVE
+
+</div>
 ---
 
 # `10 / EDUCATION`
