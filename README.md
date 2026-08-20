@@ -36,9 +36,10 @@ Backend-focused developer who ships **government-scale** and production apps: **
 
 ### Stack (visual)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nodejs,docker,postgres,mysql,mongodb,git,linux,maven&perline=8" alt="Tech stack" />
-</p>
+<!-- Dynamic GitHub Top Languages Card -->
+<a href="https://github.com/anikettP">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 ---
 
