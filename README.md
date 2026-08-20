@@ -1,79 +1,53 @@
-# Aniket Patel
+<!-- HEADER SECTION -->
+<div align="center">
+  
+  <!-- Live Status Badge -->
+  <a href="https://github.com/anikettP">
+    <img src="https://img.shields.io/badge/Status-Shipping%20Production%20Code-00E676?style=for-the-badge&logo=github&logoColor=black" alt="Status Badge" />
+  </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&center=true&vCenter=true&width=820&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Microservices%2C+REST+APIs%2C+PostgreSQL;Production+systems+%7C+Linux+%26+Docker+%26+CI%2FCD;DSA+practice+%7C+500%2B+LeetCode+solved" alt="Typing intro" />
-</p>
+  <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anikettP&style=flat-square&color=0e75b6" alt="Profile views" />
-</p>
+  <!-- Glowing Title Card -->
+  <h1>⚡ Aniket Patel</h1>
+  <p><b>Backend & Systems Engineer · Spring Boot · Microservices · DevOps</b></p>
 
----
+  <!-- Typing SVG -->
+  <a href="https://github.com/anikettP">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Spring+Boot+%2B+Microservices+%2B+PostgreSQL;Production+Systems+%7C+Linux%2C+Docker+%26+CI%2FCD;500%2B+LeetCode+Problems+Solved;Building+Scalable+Enterprise+Backend+Architectures" alt="Typing intro" />
+  </a>
 
-### About
+  <br/><br/>
 
-Backend-focused developer who ships **government-scale** and production apps: **Spring Boot**, **microservices**, **REST APIs**, **PostgreSQL**, **RBAC**, and **Linux** deployments. Comfortable across the stack (**React**, **TypeScript**, **Node.js/Express**) when the product needs it. Strong **DSA** habit (**500+ LeetCode**). Contributor mindset (**GSSoC**). Practicing **Agile** delivery and clean architecture.
+  <!-- Interactive Quick Links / Socials -->
+  <p>
+    <a href="https://linkedin.com/in/aniketpatel23" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com/u/aniketpatel_23/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://aniket-portfolio-v121.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
----
+  <!-- Visitor Counter Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anikettP&style=flat-square&color=00E676&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
 
-### Skills
-
-**Languages:** Java · C/C++ · JavaScript · TypeScript · SQL  
-
-**Backend:** Spring Boot · Microservices · REST APIs · JPA/Hibernate · RBAC · Authentication · JUnit  
-
-**Frontend:** React · HTML · CSS · Thymeleaf · Bootstrap · AJAX  
-
-**Databases:** PostgreSQL · MySQL · MongoDB  
-
-**DevOps:** Linux · Docker · CI/CD · GitHub Actions · PM2 · Apache/Nginx · SSL/HTTPS  
-
-**Tools:** Git · Maven · Postman · IntelliJ IDEA · VS Code  
-
-**Also:** Google OAuth 2.0 · Razorpay · SMTP · MVC · OOP · Agile  
-
----
-
-### Stack (visual)
-
-<!-- Dynamic GitHub Top Languages Card -->
-<a href="https://github.com/anikettP">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
+</div>
 
 ---
 
-### Stats
+### 🚀 About Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anikettP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anikettP&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
-### Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikettP&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-### Developer City
-
-<p align="center">
-  <img src="./assets/city-dev-animation.svg" alt="Developer city animation" />
-</p>
-
----
-
-### Connect
-
-<p>
-  <a href="https://github.com/anikettP"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+```yaml
+Developer Profile:
+  Name: Aniket Patel
+  Role: Backend Engineer
+  Core Focus: Enterprise Systems, Distributed Architectures & REST APIs
+  Scale Experience: Government-scale deployments & production applications
+  Problem Solving: 500+ LeetCode Solved
+  Mindset: Contributor (GSSoC), Clean Architecture, Agile Delivery
