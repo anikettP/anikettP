@@ -492,56 +492,33 @@ TCS NQT score: **72.61% · February 2026**
 
 ---
 
-09 / ENGINEERING CONSOLE
+09 / DEVELOPER TERMINAL
 
 <div align="center">
 
-╭──────────────────────────────────────────────────────────────╮
-│  ANIKET / ENGINEERING CONSOLE                    v2026.08   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  PROFILE                                                     │
-│  ──────────────────────────────────────────────────────────  │
-│  ROLE        Full Stack Java Developer                       │
-│  DOMAIN      Enterprise · E-Governance                       │
-│  LOCATION    India                                           │
-│                                                              │
-│  ──────────────────────────────────────────────────────────  │
-│  CORE SYSTEMS                                                │
-│                                                              │
-│  JAVA            ████████████████████                        │
-│  SPRING BOOT     ████████████████████                        │
-│  REST APIs       ████████████████████                        │
-│  POSTGRESQL      ██████████████████░░                        │
-│  REACT           ████████████████░░░░                        │
-│  DEVOPS          ███████████████░░░░░                        │
-│                                                              │
-│  ──────────────────────────────────────────────────────────  │
-│  LIVE METRICS                                                │
-│                                                              │
-│  LEETCODE        600+                                        │
-│  GOVERNMENT      5000+ officials                             │
-│  PRODUCTION      1000+ users                                 │
-│  IMPACT          ~40% less manual processing                 │
-│                                                              │
-│  ──────────────────────────────────────────────────────────  │
-│  CURRENTLY                                                    │
-│                                                              │
-│  ● Software Developer @ MYITMATE / MCD                      │
-│  ● Health Trade License System                               │
-│  ● Production engineering                                   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────┐
+│  aniket@developer:~$ ./current-state                       │
+│                                                             │
+│  ┌─ CURRENT ROLE                                            │
+│  │  Software Developer @ MYITMATE / MCD                     │
+│  │                                                          │
+│  ├─ PRIMARY STACK                                            │
+│  │  Java + Spring Boot + PostgreSQL                         │
+│  │                                                          │
+│  ├─ PROBLEM SOLVING                                         │
+│  │  600+ LeetCode                                           │
+│  │                                                          │
+│  ├─ PRODUCTION                                               │
+│  │  Enterprise + Government Applications                    │
+│  │                                                          │
+│  └─ STATUS                                                   │
+│     ● BUILDING                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 </div>
 
-<br>
 
-<div align="center">
-
-BUILD　→　TEST　→　DEPLOY　→　MONITOR　→　IMPROVE
-
-</div>
 ---
 
 # `10 / EDUCATION`
