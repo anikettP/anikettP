@@ -1,381 +1,502 @@
-# 👋 Hi, I'm Aniket Patel
+<!-- =========================================================
+     ANIKET PATEL — GITHUB PROFILE README
+     Repository: anikettP/anikettP
+     ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+REST+APIs+%26+Microservices;PostgreSQL+%7C+Docker+%7C+Linux+%7C+CI%2FCD;500%2B+LeetCode+Problems+Solved"
-    alt="Typing introduction"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/anikettP">
-    <img src="https://img.shields.io/github/followers/anikettP?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/anikettP?tab=repositories">
-    <img src="https://img.shields.io/github/stars/anikettP?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=anikettP&style=for-the-badge&color=0e75b6" alt="Profile views">
-</p>
+# `ANIKET.PATEL`
 
-<p align="center">
-  <a href="https://github.com/anikettP">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+### `FULL STACK JAVA DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;PostgreSQL+%7C+React+%7C+Node.js;Enterprise+Systems+%7C+E-Governance;Linux+%7C+Docker+%7C+CI%2FCD;600%2B+LeetCode+Problems+Solved" alt="Typing introduction"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anikettP&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
+<a href="https://github.com/anikettP">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aniketpatel23/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/aniketpatel_23/">
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="mailto:aniketpatel4p@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
-
-I'm a **backend-focused software developer** who enjoys designing APIs, working with databases, building scalable services, and deploying applications to production.
-
-I primarily work with **Java, Spring Boot, PostgreSQL, REST APIs, and microservices**, while also being comfortable working across the stack when the product requires it.
+<div align="center">
 
 ```text
-Backend        → Java · Spring Boot · REST APIs · Microservices
-Database       → PostgreSQL · MySQL · MongoDB
-Frontend       → React · TypeScript · Thymeleaf
-DevOps         → Linux · Docker · CI/CD · Nginx · PM2
-Engineering   → DSA · OOP · MVC · Authentication · RBAC
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   aniket@developer                                           │
+│                                                              │
+│   Backend-focused Full Stack Developer                       │
+│   Building enterprise + government applications              │
+│                                                              │
+│   [ Java ] [ Spring Boot ] [ PostgreSQL ] [ React ]          │
+│   [ Docker ] [ Linux ] [ REST ] [ CI/CD ]                    │
+│                                                              │
+│   STATUS: ● BUILDING                                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### 💡 What I Like Building
+</div>
 
-* 🔹 Production-grade backend systems
-* 🔹 RESTful APIs and microservices
-* 🔹 Database-driven applications
-* 🔹 Authentication & role-based access control
-* 🔹 Dockerized applications
-* 🔹 CI/CD pipelines
-* 🔹 Clean and maintainable architectures
-* 🔹 Developer tools and automation
+## `01 / ABOUT`
 
----
+> **I build software that has to work beyond localhost.**
 
-## 🧑‍💻 Tech Stack
+I'm a **Full Stack Java Developer** with hands-on experience building and maintaining enterprise and government applications.
 
-### ☕ Backend
+Currently working on a live **Health Trade License e-Governance system for the Municipal Corporation of Delhi**, while previously working with **MOON Startup** and the **National Informatics Centre (NIC), MeitY**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=8" alt="Backend technologies">
-</p>
+My strongest areas are:
 
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,bootstrap&perline=8" alt="Frontend technologies">
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=8" alt="Database technologies">
-</p>
-
-### ⚙️ DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,maven,postman&perline=8" alt="DevOps and development tools">
-</p>
+```text
+Backend Engineering     ████████████████████  Java / Spring Boot
+API Development         ████████████████████  REST / Integrations
+Database Engineering    ██████████████████░░  PostgreSQL / SQL
+Full Stack Development  ████████████████░░░░  React / Node.js
+DevOps                   ███████████████░░░░░  Linux / Docker / CI/CD
+Problem Solving         ████████████████████  600+ LeetCode
+```
 
 ---
 
-## 🏗️ What I Work With
+# `02 / SKILL MATRIX`
 
-<table>
-<tr>
-<td width="50%">
-
-### Backend Engineering
-
-* Spring Boot
-* Spring MVC
-* REST APIs
-* JPA / Hibernate
-* Microservices
-* Authentication
-* RBAC
-* JUnit
-
-</td>
-
-<td width="50%">
-
-### Infrastructure
-
-* Linux
-* Docker
-* Nginx / Apache
-* CI/CD
-* GitHub Actions
-* PM2
-* SSL / HTTPS
-* Tomcat
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Data
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* SQL
-* Database design
-* Native queries
-
-</td>
-
-<td width="50%">
-
-### Engineering
-
-* Data Structures & Algorithms
-* OOP
-* MVC
-* Agile
-* Clean Architecture
-* API Design
-* System Design fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-### 🏛️ Java Full Stack Developer Intern — NIC, MeitY
-
-**National Informatics Centre · Government of India**
-
-Working on a production-oriented **Honorarium Management System** used across multiple departments.
-
-**Key areas:**
-
-* Spring Boot backend development
-* REST API development
-* PostgreSQL database integration
-* JPA / Hibernate
-* Role-based access control
-* Thymeleaf-based UI
-* Native SQL queries
-* Tomcat deployment
-* Production debugging and maintenance
-
-> Building software for real users taught me that production engineering is much more than writing code — reliability, security, maintainability and deployment matter just as much.
-
----
-
-## 📌 Featured Projects
+### Click a category to explore
 
 <details>
-<summary><b>🏛️ Honorarium Management System</b></summary>
+<summary>☕ <b>BACKEND ENGINEERING</b> — Java ecosystem</summary>
 
-A financial workflow application for managing honorarium processing across departments.
+<br>
 
-**Stack**
-
-`Java` `Spring Boot` `JPA` `PostgreSQL` `Thymeleaf` `Bootstrap` `DataTables` `Tomcat`
-
-**Highlights**
-
-* RESTful backend APIs
-* Database-driven workflows
-* RBAC-secured application
-* Complex PostgreSQL queries
-* Employee and department management
-* Production deployment
+| Technology              | What I use it for                                           |
+| ----------------------- | ----------------------------------------------------------- |
+| ☕ **Java**              | Enterprise application development, OOP and backend systems |
+| 🌱 **Spring Boot**      | Production backend services and REST APIs                   |
+| 🧩 **Spring MVC**       | Web applications and MVC architecture                       |
+| 🔗 **REST APIs**        | Service communication and integrations                      |
+| 🗃️ **JPA / Hibernate** | ORM and database persistence                                |
+| 🔐 **RBAC**             | Role-based application access                               |
+| 🧪 **JUnit**            | Backend testing                                             |
 
 </details>
 
 <details>
-<summary><b>🛒 E-Book Store</b></summary>
+<summary>🗄️ <b>DATABASE ENGINEERING</b> — Data layer</summary>
 
-Full-stack e-commerce application with customer and administrative workflows.
+<br>
+
+| Technology          | What I use it for                  |
+| ------------------- | ---------------------------------- |
+| 🐘 **PostgreSQL**   | Production relational applications |
+| 🐬 **MySQL**        | Relational database development    |
+| 🍃 **MongoDB**      | Document-based applications        |
+| ⚡ **SQL**           | Queries, joins and data processing |
+| 📈 **Optimization** | Query and database performance     |
+
+</details>
+
+<details>
+<summary>🎨 <b>FRONTEND ENGINEERING</b> — Product layer</summary>
+
+<br>
+
+| Technology        | What I use it for                   |
+| ----------------- | ----------------------------------- |
+| ⚛️ **React**      | Full-stack product interfaces       |
+| 🟨 **JavaScript** | Interactive web applications        |
+| 🔷 **TypeScript** | Typed frontend/backend development  |
+| 🌐 **HTML5**      | Application structure               |
+| 🎨 **CSS3**       | UI styling                          |
+| 🅱️ **Bootstrap** | Responsive interfaces               |
+| 🌿 **Thymeleaf**  | Server-rendered Spring applications |
+| 🔄 **AJAX**       | Dynamic application workflows       |
+
+</details>
+
+<details>
+<summary>🚀 <b>DEVOPS & INFRASTRUCTURE</b> — Ship it</summary>
+
+<br>
+
+| Technology            | What I use it for                     |
+| --------------------- | ------------------------------------- |
+| 🐧 **Linux**          | Server management and deployments     |
+| 🐳 **Docker**         | Containerization                      |
+| 🔁 **CI/CD**          | Automated delivery                    |
+| ⚙️ **GitHub Actions** | CI/CD workflows                       |
+| 🌐 **Nginx**          | Reverse proxy and web serving         |
+| 🪶 **Apache**         | Web server configuration              |
+| 📦 **Maven**          | Java builds and dependency management |
+| 🔍 **Postman**        | API development and testing           |
+
+</details>
+
+<details>
+<summary>🧠 <b>ENGINEERING FUNDAMENTALS</b> — How I think</summary>
+
+<br>
+
+`Data Structures & Algorithms`
+
+`Object-Oriented Programming`
+
+`Multithreading`
+
+`MVC`
+
+`Design Patterns`
+
+`Database Optimization`
+
+`API Design`
+
+`Scalability`
+
+`Agile`
+
+`SDLC`
+
+</details>
+
+---
+
+# `03 / CAREER TIMELINE`
+
+```text
+2026 ──────────────────────────────────────────────────────────▶
+
+     ┌──────────────────────────────────────────────┐
+     │  MYITMATE · MCD                              │
+     │  Software Developer                          │
+     │  JUN 2026 → PRESENT                          │
+     │                                              │
+     │  Health Trade License System                 │
+     │  E-Governance · Production · PostgreSQL      │
+     └──────────────────────────────────────────────┘
+                         │
+                         ▼
+     ┌──────────────────────────────────────────────┐
+     │  MOON STARTUP                                │
+     │  Full Stack Developer & DevOps Engineer      │
+     │  AUG 2025 → JAN 2026                         │
+     │                                              │
+     │  3 production applications                   │
+     │  1000+ active users                          │
+     └──────────────────────────────────────────────┘
+                         │
+                         ▼
+     ┌──────────────────────────────────────────────┐
+     │  NIC · MeitY                                 │
+     │  Java Full Stack Developer Intern            │
+     │  JUN 2025 → JUL 2025                         │
+     │                                              │
+     │  Government application                      │
+     │  5000+ officials                             │
+     └──────────────────────────────────────────────┘
+
+2025 ──────────────────────────────────────────────────────────▶
+```
+
+---
+
+# `04 / SELECTED BUILDS`
+
+<div align="center">
+
+### 🏛️ HEALTH TRADE LICENSE
+
+**MCD · Enterprise E-Governance**
+
+</div>
+
+A live citizen-facing platform supporting online licensing and approval workflows.
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  APPLICATION PROCESSING     DOCUMENT MANAGEMENT           │
+│  INSPECTIONS                APPROVAL WORKFLOWS            │
+│  MAP LOCATION               VALIDATIONS                   │
+│  SQL OPTIMIZATION           PRODUCTION DEBUGGING          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 **Stack**
 
-`Java` `Spring Boot` `PostgreSQL` `Thymeleaf`
+`Java` `Spring MVC` `Hibernate` `PostgreSQL` `JSP` `JavaScript` `Bootstrap` `REST APIs` `Leaflet.js`
+
+---
+
+<div align="center">
+
+### 🏛️ HONORARIUM MANAGEMENT SYSTEM
+
+**NIC · Government Application**
+
+</div>
+
+Role-based government workflow application serving **5000+ officials** across multiple departments.
+
+**Built around**
+
+`Spring Boot` → `REST APIs` → `JPA/Hibernate` → `PostgreSQL` → `Thymeleaf`
+
+**Impact**
+
+> Approximately **40% reduction in manual processing effort**
+
+---
+
+<div align="center">
+
+### 🛒 WOWWOOLIES
+
+**Production E-Commerce Platform**
+
+</div>
+
+Full-stack e-commerce platform serving **1000+ users**.
 
 **Features**
 
-* Authentication
-* Product management
-* Shopping cart
-* Checkout
-* Admin panel
-* Database persistence
-
-</details>
-
-<details>
-<summary><b>⚡ Order Execution Engine</b></summary>
-
-Event-driven backend system designed for concurrent order processing.
+`Authentication` · `Online Payments` · `Order Management` · `SEO` · `HTTPS` · `CI/CD`
 
 **Stack**
 
-`Node.js` `TypeScript` `Fastify` `BullMQ` `Redis` `PostgreSQL` `WebSocket`
+`MongoDB` `Express.js` `React` `Node.js` `Linux` `REST APIs` `Google OAuth 2.0` `Razorpay`
 
-**Highlights**
+Project details are based on your updated resume.
 
-* Event-driven architecture
-* Queue-based processing
-* Concurrent order execution
-* Real-time WebSocket updates
-* Smart routing
-* Production-oriented backend design
+---
+
+# `05 / BY THE NUMBERS`
+
+<div align="center">
+
+|      `600+`     |     `5000+`    |     `1000+`     |           `40%`          |
+| :-------------: | :------------: | :-------------: | :----------------------: |
+|   **LeetCode**  |  **Officials** |    **Users**    | **Processing Reduction** |
+| Problems Solved | Government App | Production Apps |     Honorarium System    |
+
+</div>
+
+---
+
+# `06 / PROBLEM SOLVING`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/aniketpatel_23/">
+
+<img src="https://img.shields.io/badge/600%2B_PROBLEMS_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="600+ LeetCode"/>
+
+</a>
+
+<br><br>
+
+**Data Structures · Algorithms · SQL · Problem Solving**
+
+<br>
+
+<a href="https://leetcode.com/u/aniketpatel_23/">
+
+`→ OPEN LEETCODE PROFILE`
+
+</a>
+
+</div>
+
+---
+
+# `07 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=anikettP&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+height="170"
+alt="GitHub statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+height="170"
+alt="Top languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=anikettP&theme=github-compact&hide_border=true&area=true"
+alt="GitHub contribution activity"
+/>
+
+</div>
+
+---
+
+# `08 / ACHIEVEMENT UNLOCKED`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   🏆  FLIPKART GRiD 2.0          → FINALIST              ║
+║                                                          ║
+║   🌱  GSSoC 2025               → CONTRIBUTOR             ║
+║                                                          ║
+║   💡  BLUETOOTH ANTI-THEFT     → PATENT                  ║
+║                                                          ║
+║   📊  TCS NQT                  → 72.61%                  ║
+║                                                          ║
+║   🧠  LEETCODE                 → 600+                    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `09 / DEVELOPER TERMINAL`
+
+```text
+aniket@github:~$ ./profile.sh
+
+> Initializing developer profile...
+
+[OK] Backend systems
+[OK] REST APIs
+[OK] PostgreSQL
+[OK] Full-stack development
+[OK] Linux deployments
+[OK] CI/CD
+[OK] 600+ DSA problems
+
+> Current mission:
+
+BUILD SOFTWARE
+THAT SURVIVES
+PRODUCTION.
+
+> Status: ONLINE ●
+```
+
+<details>
+<summary>💻 <b>Run commands</b></summary>
+
+<br>
+
+**`whoami`**
+
+> Full Stack Java Developer focused on enterprise and government applications.
+
+**`skills`**
+
+> Java · Spring Boot · REST APIs · PostgreSQL · React · Node.js · Docker · Linux · CI/CD
+
+**`projects`**
+
+> HTL System · Honorarium Management System · WowWoolies
+
+**`leetcode`**
+
+> 600+ problems solved
+
+**`contact`**
+
+> [aniketpatel4p@gmail.com](mailto:aniketpatel4p@gmail.com)
 
 </details>
 
 ---
 
-## 🧠 DSA & Problem Solving
+# `10 / EDUCATION`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="500 plus LeetCode problems">
-  <img src="https://img.shields.io/badge/DSA-Strong-58A6FF?style=for-the-badge" alt="DSA">
-  <img src="https://img.shields.io/badge/SQL-Practice-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+### 🎓 Government Engineering College, Ajmer
 
-I regularly practice:
+**B.Tech — Computer Science & Engineering**
 
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming` · `Greedy` · `SQL`
+`2022 → Apr 2026` · `CGPA: 7.45`
+
+`DSA` · `DBMS` · `Operating Systems` · `Computer Networks` · `OOP`
 
 ---
 
-## 📊 GitHub Analytics
+# `11 / CREDENTIALS`
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=anikettP&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    alt="GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettP&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    alt="Top languages"
-  />
-</p>
+<details>
+<summary>📜 <b>Certifications & Recognition</b></summary>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anikettP&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub contribution graph"
-  />
-</p>
+<br>
+
+* **Analysis of Algorithms** — Princeton University, Coursera
+* **Java Full Stack Development — Spring Boot** — Udemy
+* **GirlScript Summer of Code 2025** — Contributor
+* **Bluetooth Anti-Theft System** — Patent No. `202411093785 A`
+* **TCS National Qualifier Test** — `72.61%`
+
+</details>
 
 ---
 
-## 🐍 Contribution Activity
+# `12 / CONNECT`
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/anikettP/anikettP/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
-</p>
+<div align="center">
 
----
+<a href="mailto:aniketpatel4p@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-aniketpatel4p%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## 🏆 Achievements
-
-<table>
-<tr>
-<td align="center">
-
-### 🧩 500+
-
-LeetCode Problems
-
-</td>
-
-<td align="center">
-
-### 🏅 GSSoC
-
-Contributor
-
-</td>
-
-<td align="center">
-
-### 🏆 Flipkart GRiD
-
-Finalist
-
-</td>
-
-<td align="center">
-
-### 📜 IBM
-
-Backend Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌆 Developer Mode
-
-<p align="center">
-  <img
-    src="./assets/city-dev-animation.svg"
-    alt="Developer city animation"
-    width="850"
-  />
-</p>
-
-<p align="center">
-  <i>Building. Debugging. Deploying. Learning. Repeating.</i>
-</p>
-
----
-
-## 🎯 Currently
-
-```text
-🔭 Building        → Backend & AI-powered applications
-🌱 Learning        → System Design · Microservices · AI/LLM
-💻 Practicing      → DSA & Backend Engineering
-🚀 Improving       → Production architecture & DevOps
-🤝 Open to         → Software Engineering opportunities
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
+<a href="https://www.linkedin.com/in/aniketpatel23/">
+<img src="https://img.shields.io/badge/LINKEDIN-Aniket%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <a href="https://github.com/anikettP">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-anikettP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://leetcode.com/u/aniketpatel_23/">
+<img src="https://img.shields.io/badge/LEETCODE-600%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
-  <b>⭐ If you find something interesting, consider giving the repository a star!</b>
-</p>
+### `BUILD → SHIP → LEARN → REPEAT`
+
+</div>
 
 ---
 
-<p align="center">
-  <sub>Built with Markdown · GitHub · Open Source tools</sub>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
